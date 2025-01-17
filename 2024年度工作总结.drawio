@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.6">
   <diagram name="第 1 页" id="ebeUFto6fMN5XXxg8IfA">
-    <mxGraphModel dx="2177" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
+    <mxGraphModel dx="1016" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,7 +153,7 @@
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XC2Z82CuPK0ErsjAf5O9-41" target="XC2Z82CuPK0ErsjAf5O9-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XC2Z82CuPK0ErsjAf5O9-41" value="数据归档" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
+        <mxCell id="XC2Z82CuPK0ErsjAf5O9-41" value="&lt;div&gt;数据校验&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;数据归档&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
           <mxGeometry x="1170" y="270" width="90" height="260" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XC2Z82CuPK0ErsjAf5O9-5" target="XC2Z82CuPK0ErsjAf5O9-41">
@@ -167,16 +167,16 @@
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-47" value="数据加工" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#D9D9D9;fontColor=#323232;" vertex="1" parent="1">
           <mxGeometry x="1300" y="550" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XC2Z82CuPK0ErsjAf5O9-53" value="授课语速" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
+        <mxCell id="XC2Z82CuPK0ErsjAf5O9-53" value="授课语速&amp;nbsp; ST图" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
           <mxGeometry x="1480" y="270" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XC2Z82CuPK0ErsjAf5O9-54" value="&lt;div&gt;师生行为&lt;/div&gt;&lt;div&gt;热力图&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
+        <mxCell id="XC2Z82CuPK0ErsjAf5O9-54" value="&lt;div&gt;师生行为区间&lt;/div&gt;&lt;div&gt;热力图&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
           <mxGeometry x="1480" y="480" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-55" value="课程设问" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
           <mxGeometry x="1480" y="410" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XC2Z82CuPK0ErsjAf5O9-56" value="课程环节" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
+        <mxCell id="XC2Z82CuPK0ErsjAf5O9-56" value="视频章节&amp;nbsp; 教学环节" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
           <mxGeometry x="1480" y="340" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XC2Z82CuPK0ErsjAf5O9-58" target="XC2Z82CuPK0ErsjAf5O9-53">
@@ -277,34 +277,49 @@
           <mxGeometry x="1130" y="760" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-149" value="报告数据加工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5C4038;gradientColor=none;fontColor=#F2F2F2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="700" width="240" height="60" as="geometry" />
+          <mxGeometry x="310" y="1290" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-150" value="课堂实录" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="1250" y="820" width="140" height="50" as="geometry" />
+          <mxGeometry x="160" y="1420" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-151" value="CV原始结果" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="1250" y="890" width="140" height="50" as="geometry" />
+          <mxGeometry x="160" y="1530" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-152" value="课堂实录句子分类" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="1250" y="960" width="140" height="50" as="geometry" />
+          <mxGeometry x="160" y="1640" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-153" value="教学环节" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="1250" y="1030" width="140" height="50" as="geometry" />
+          <mxGeometry x="160" y="1780" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-154" value="授课语速&amp;nbsp; ST图" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="790" width="140" height="50" as="geometry" />
+          <mxGeometry x="670" y="1420" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-155" value="师生行为区间" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="860" width="140" height="50" as="geometry" />
+          <mxGeometry x="350" y="1590" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-156" value="热力图" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="920" width="140" height="50" as="geometry" />
+          <mxGeometry x="350" y="1660" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XC2Z82CuPK0ErsjAf5O9-157" value="课堂设问情况" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="990" width="140" height="50" as="geometry" />
+        <mxCell id="XC2Z82CuPK0ErsjAf5O9-157" value="课堂设问" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1730" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-158" value="视频章节&amp;nbsp; 教学环节" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="1060" width="140" height="50" as="geometry" />
+          <mxGeometry x="350" y="1800" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XC2Z82CuPK0ErsjAf5O9-160" value="抽离教师说话文本" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#BEB3AF;fontColor=#323232;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1420" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XC2Z82CuPK0ErsjAf5O9-161" value="按分钟归并" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#BEB3AF;fontColor=#323232;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1420" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XC2Z82CuPK0ErsjAf5O9-163" value="按标签归并" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#BEB3AF;fontColor=#323232;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1530" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XC2Z82CuPK0ErsjAf5O9-164" value="符合检测阈值" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#BEB3AF;fontColor=#323232;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1530" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XC2Z82CuPK0ErsjAf5O9-165" value="关联ASR结果" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#BEB3AF;fontColor=#323232;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1530" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
