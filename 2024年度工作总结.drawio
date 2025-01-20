@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.6">
   <diagram name="第 1 页" id="ebeUFto6fMN5XXxg8IfA">
-    <mxGraphModel dx="1104" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="2527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-12" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="97.14" y="150" width="360" height="290" as="geometry" />
+          <mxGeometry x="97.14" width="360" height="440" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-2" value="报告数据产出流程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5C4038;gradientColor=none;fontColor=#F2F2F2;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="817.15" y="-70" width="240" height="60" as="geometry" />
@@ -67,7 +67,10 @@
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-7" value="线下视频导入" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" parent="1" vertex="1">
           <mxGeometry x="117.14" y="300" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XC2Z82CuPK0ErsjAf5O9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XC2Z82CuPK0ErsjAf5O9-8" target="XC2Z82CuPK0ErsjAf5O9-14" edge="1">
+        <mxCell id="XC2Z82CuPK0ErsjAf5O9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="XC2Z82CuPK0ErsjAf5O9-8" target="XC2Z82CuPK0ErsjAf5O9-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dawlFl7itLdH4BwPUdF3-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XC2Z82CuPK0ErsjAf5O9-8" target="dawlFl7itLdH4BwPUdF3-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XC2Z82CuPK0ErsjAf5O9-8" value="视频切片上传" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" parent="1" vertex="1">
@@ -544,6 +547,24 @@
         </mxCell>
         <mxCell id="dawlFl7itLdH4BwPUdF3-133" value="&lt;div&gt;&lt;b&gt;命令&lt;/b&gt;&lt;/div&gt;&lt;div&gt;开始 / 结束指令&lt;/div&gt;&lt;div&gt;下发工控机配置&lt;/div&gt;&lt;div&gt;工控机初始化&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
           <mxGeometry x="2880" y="1714" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dawlFl7itLdH4BwPUdF3-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dawlFl7itLdH4BwPUdF3-135" target="dawlFl7itLdH4BwPUdF3-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dawlFl7itLdH4BwPUdF3-135" value="盒子数据产出" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="297.14" y="10" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dawlFl7itLdH4BwPUdF3-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dawlFl7itLdH4BwPUdF3-137" target="dawlFl7itLdH4BwPUdF3-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dawlFl7itLdH4BwPUdF3-137" value="工控机云管理中心" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="477.14" y="10" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dawlFl7itLdH4BwPUdF3-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dawlFl7itLdH4BwPUdF3-138" target="XC2Z82CuPK0ErsjAf5O9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dawlFl7itLdH4BwPUdF3-138" value="业务" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;" vertex="1" parent="1">
+          <mxGeometry x="477.14" y="120" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
