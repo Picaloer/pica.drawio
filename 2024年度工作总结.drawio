@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.6">
   <diagram name="第 1 页" id="ebeUFto6fMN5XXxg8IfA">
-    <mxGraphModel dx="1614" dy="2326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
+    <mxGraphModel dx="769" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,7 +308,7 @@
         <mxCell id="dawlFl7itLdH4BwPUdF3-47" value="估计教师轨迹数组" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="2536.75" y="480" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dawlFl7itLdH4BwPUdF3-48" value="生成频率概率矩阵" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="dawlFl7itLdH4BwPUdF3-48" value="生成频次矩阵" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2691.75" y="480" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dawlFl7itLdH4BwPUdF3-49" value="对矩阵作高斯模糊" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DED9D7;fontColor=#323232;fontStyle=1" parent="1" vertex="1">
