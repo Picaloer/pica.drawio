@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.6">
   <diagram name="第 1 页" id="2g0IOvcb1YNoFJJj5fI0">
-    <mxGraphModel dx="5267" dy="-302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="3701" dy="-1239" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#E6E6E6" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,6 +376,153 @@
         </mxCell>
         <mxCell id="UbAiKEsNsUSX4l_yUuPw-115" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;strokeColor=#000000;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="10" y="3835" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;strokeColor=default;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-3" target="9mfqwdB1_jlXxy3ACUW9-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="5143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;strokeColor=default;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-3" target="9mfqwdB1_jlXxy3ACUW9-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="5603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-3" value="课堂行为分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254" y="5343" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="948" y="5014" as="sourcePoint" />
+            <mxPoint x="948" y="5014" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-6" target="9mfqwdB1_jlXxy3ACUW9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-6" value="Yolo模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="4923" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-8" target="9mfqwdB1_jlXxy3ACUW9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-8" value="课堂视频" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="5003" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-10" target="9mfqwdB1_jlXxy3ACUW9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-10" value="帧坐标信息" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="684" y="4963" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-12" target="9mfqwdB1_jlXxy3ACUW9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-12" value="角色识别算法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="884" y="4963" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-14" target="9mfqwdB1_jlXxy3ACUW9-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1234" y="5323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-14" value="教师轨迹坐标序列" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1154" y="5113" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-16" target="9mfqwdB1_jlXxy3ACUW9-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-16" value="巡视指标判定算法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="874" y="5293" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-18" target="9mfqwdB1_jlXxy3ACUW9-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-18" value="巡视指标时间区间" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="674" y="5293" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-19" value="轨迹移动长度统计" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="724" y="5073" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-20" value="目标丢失补偿" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="884" y="5073" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-21" value="活动范围补偿" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1024" y="5073" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-22" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;strokeColor=default;fontSize=16;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="804" y="5023" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-23" value="窗口平均速度" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="714" y="5203" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-24" value="窗口反转次数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="834" y="5203" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-25" value="窗口静止时长" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="954" y="5203" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-26" value="帧哨兵机制" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="894" y="5153" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-27" value="巡视时长" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1074" y="5203" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-28" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;strokeColor=default;fontSize=16;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="764" y="5243" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-29" value="巡视指标" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="5113" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-30" value="读写指标&lt;br style=&quot;font-size: 16px;&quot;&gt;举手指标" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="5573" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-32" target="9mfqwdB1_jlXxy3ACUW9-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-32" value="Yolo模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="5403" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-34" target="9mfqwdB1_jlXxy3ACUW9-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-34" value="课堂视频" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="5483" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-36" target="9mfqwdB1_jlXxy3ACUW9-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-36" value="帧行为序列" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="674" y="5443" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-38" target="9mfqwdB1_jlXxy3ACUW9-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-38" value="统计帧各行为数目" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="834" y="5443" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-40" target="9mfqwdB1_jlXxy3ACUW9-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-40" value="帧行为数目序列" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1004" y="5573" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-42" target="9mfqwdB1_jlXxy3ACUW9-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-42" value="行为占比计算" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="844" y="5673" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;strokeWidth=1;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="9mfqwdB1_jlXxy3ACUW9-44" target="9mfqwdB1_jlXxy3ACUW9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9mfqwdB1_jlXxy3ACUW9-44" value="读写行为指标区间&lt;br style=&quot;font-size: 16px;&quot;&gt;举手行为指标区间" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=none;fontSize=16;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="654" y="5663" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
